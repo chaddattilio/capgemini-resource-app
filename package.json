@@ -34,15 +34,23 @@
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.6.0",
     "parcel-bundler": "^1.12.3",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "sass": "^1.22.9"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "bootstrap": "^4.3.1",
+    "create-react-class": "^15.6.3",
     "firebase": "^5.7.0",
     "firebase-admin": "^6.4.0",
-    "firebase-tools": "^6.1.2"
+    "firebase-tools": "^6.1.2",
+    "jquery": "^3.4.1",
+    "moment": "^2.24.0",
+    "popper.js": "^1.15.0",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.11",
+    "react-datepicker": "^2.8.0",
+    "react-dom": "^16.8.6"
   },
   "browserslist": [
     "last 2 Chrome versions",

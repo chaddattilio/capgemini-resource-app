@@ -1,8 +1,10 @@
 import React from "react";
 import { render } from "react-dom";
-import { Router, Link } from "@reach/router";
+import { Router } from "@reach/router";
 import SeeResources from "./SeeResources";
 import Home from "./Home";
+import "bootstrap";
+import "bootstrap/dist/css/bootstrap.css";
 
 const App = () => {
   return (
