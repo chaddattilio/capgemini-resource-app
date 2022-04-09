@@ -45,7 +45,7 @@
     "firebase-admin": "^6.4.0",
     "firebase-tools": "^6.1.2",
     "jquery": "^3.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.11",
